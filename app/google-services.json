@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031365604378",
+    "project_id": "wazeefatech-84c9c",
+    "storage_bucket": "wazeefatech-84c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031365604378:android:8f79f8eb382a7d24d7cda3",
+        "android_client_info": {
+          "package_name": "com.petra.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqNmuhCkj5LyEt-a5lWH9dmp31R-iCwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
